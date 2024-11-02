@@ -19,17 +19,17 @@ body
     }
 
     .custom-heading {
-        font-size: 36px; /* Font size */
-        color: #2e4a7e; /* Text color */
-        text-align: center; /* Centered text */
-        font-family: 'Arial', sans-serif; /* Font family */
-        text-transform: uppercase; /* Uppercase letters */
-        letter-spacing: 2px; /* Space between letters */
-        margin: 20px; /* Margin around the heading */
-        padding: 10px; /* Inner spacing */
-        border: 2px solid #1e3cbe; /* Border around the heading */
-        border-radius: 5px; /* Rounded corners */
-        background-color: #f3b735; /* Light green background */
+        font-size: 36px; 
+        color: #2e4a7e; 
+        text-align: center; 
+        font-family: 'Arial', sans-serif; 
+        text-transform: uppercase; 
+        letter-spacing: 2px; 
+        margin: 20px; 
+        padding: 10px; 
+        border: 2px solid #1e3cbe; 
+        border-radius: 5px; 
+        background-color: #f3b735; 
     }
     .change {
         font-size: 25px;
